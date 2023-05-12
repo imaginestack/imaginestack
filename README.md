@@ -5,9 +5,6 @@
 ### Imagine Kube GitOps Mono Repository :octocat:
 
 _... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
-
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
   
 </div>
 
@@ -45,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📖 Overview
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
 
 Our mono repository for our Infrastructure as Code (IaC) and GitOps best practices using the industry standard tools like [Ansible](https://www.ansible.com/), [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), [Flux](https://github.com/fluxcd/flux2), [Renovate](https://github.com/renovatebot/renovate) and [GitHub Actions](https://github.com/features/actions).
 
