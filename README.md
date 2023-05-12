@@ -28,7 +28,7 @@
 <h3 align="center"> Unleash the power of your imagination with a devops automation platform for the dreamers, builders, and doers of the tech world. From concept ideation to deployment delivery and beyond. Unified workflows for DevOps, IaC, and GitOps.  Elevate your DevOps game just Imagine!</h3>
 
 </div>
----
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
 
