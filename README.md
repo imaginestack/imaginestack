@@ -29,8 +29,6 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
-
 ## 📖 Overview
 
 Our mono repository for our Infrastructure as Code (IaC) and GitOps best practices using the industry standard tools like [Ansible](https://www.ansible.com/), [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), [Flux](https://github.com/fluxcd/flux2), [Renovate](https://github.com/renovatebot/renovate) and [GitHub Actions](https://github.com/features/actions).
