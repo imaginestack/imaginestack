@@ -1,7 +1,4 @@
-
-<h1 align="center"> 
-Hello World 👋
-<h1 align="center">
+### Hello World 👋
 
 <!--
 **ImagineStudio-io/ImagineStudio-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Just++Imagine++...++++++++++)](https://git.io/typing-svg)
+
 **Languages and Tools:**  
 
 <h2 align="center"> 
