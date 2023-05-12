@@ -4,7 +4,7 @@
 
 ### Imagine Kube GitOps Mono Repository :octocat:
 
-_... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
+... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
 
 </div>
 
@@ -18,7 +18,7 @@ _... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and Git
 
 </div>
 
----
+
 
 **Languages and Tools:**  
 
