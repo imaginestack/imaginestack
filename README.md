@@ -4,7 +4,7 @@
 
 ### Imagine Kubernetes :octocat:
 
-... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
+... managed with Ansible, Terraform, Flux, Renovate and GitHub Actions_ 🤖
 
 </div>
 
