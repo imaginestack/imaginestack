@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
 
-### Imagine Kube GitOps Mono Repository :octocat:
+### Imagine Kube Repositories:octocat:
 
 ... managed with Ansible, Terraform, Flux, Kubernetes, Docker, Renovate and GitHub Actions_ 🤖
 
