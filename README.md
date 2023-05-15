@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
 
-### Imagine Kubernetes :octocat:
+### Imagine Kube Platform :octocat:
 
 ... managed with Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
 
