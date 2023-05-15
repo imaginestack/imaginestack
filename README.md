@@ -4,7 +4,7 @@
 
 ### Imagine Kube Platform :octocat:
 
-... managed with Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
+... managed with Kubernetes, Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
 
 </div>
 
