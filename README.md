@@ -1,8 +1,8 @@
   <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="144px" height="144px"/>
+<img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
 
-### ImagineKube Platform :octocat:
+### ImagineKube :octocat:
 
 ... managed with Kubernetes, Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
 
