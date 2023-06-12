@@ -1,6 +1,6 @@
   <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89822340?v=4" align="center" width="144px" height="144px"/>
+<img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="144px" height="144px"/>
 
 ### Imagine Kube Platform :octocat:
 
