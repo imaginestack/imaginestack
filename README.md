@@ -4,7 +4,7 @@
 
 ### ImagineKube :octocat:
 
-<h4 > The cloud native service provider </h4>
+<h4 > Cloud Native Service Provider </h4>
 
 </div>
 
