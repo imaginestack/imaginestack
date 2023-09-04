@@ -4,7 +4,7 @@
 
 ### ImagineKube :octocat:
 
-... managed with Kubernetes, Ansible, Terraform, Flux, Argo, Jenkins, Renovate and GitHub Actions_ 🤖
+<h4 > The cloud native service provider </h4>
 
 </div>
 
