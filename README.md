@@ -2,11 +2,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
 
-### ImagineKube :octocat:
-
-<h2 >Cloud Native Service Provider </h2>
+### Cloud Native Platform:octocat:
 <p align="center">
-  <b>ImagineKube:</b><br>
+  <b>ImagineKube</b><br>
   <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
 </p>
 
