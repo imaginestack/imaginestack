@@ -4,7 +4,7 @@
 
 ### Cloud Native DevOps Platform:octocat:
 <p align="center">
-  <b>ImagineKube</b><br>
+  <b>Imagine Kubernetes </b><br>
   <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
 </p>
 
@@ -25,11 +25,11 @@
 </div>
 
 <div align="center">
-[ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
+<code>[ImagineKube](https://imaginekube.com/)</code> is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 </div>
 
   
-#### ImagineKube  ***redefining what's possible in cloud-native devops management***
+### ImagineKube  ***redefining what's possible in cloud-native devops management***
 
 **🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineKube provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
