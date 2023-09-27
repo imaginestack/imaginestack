@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-[![ImagineKube](https://imaginekube.com/)] is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
+[ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 </div>
 
   
