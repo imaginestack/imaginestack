@@ -26,8 +26,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/></code><code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-original-wordmark.svg" alt="k3s" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg" alt="argo" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original-wordmark.svg" alt="packer" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="prometheus" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="graphql" width="40" height="40"/></code><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="linux" width="40" height="40"/></code>
 </div>
 
-
-
+<div>
 [ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 
 ### The ImagineKube Advantage
@@ -58,3 +57,5 @@ Ready to explore a cloud-native universe filled with endless possibilities? [Emb
 
   <summary><b>🗃 Support Multiple CNI Networking, Sevice Mesh, Load Balancing and Storage Solutions</b></summary>
   <li>Support K3S, Flannel, Calico, MetalLB, OpenELB, GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">OpenELB</li>
+</div>
+
