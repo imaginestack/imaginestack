@@ -28,11 +28,8 @@
 [ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 </div>
 
-
-<div>
-### The ImagineKube Advantage
-
-ImagineKube redefines what's possible in cloud-native management:
+  
+### ImagineKube redefines what's possible in cloud-native devops management:
 
 **🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineKube provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
