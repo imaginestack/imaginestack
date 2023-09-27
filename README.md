@@ -4,7 +4,7 @@
 
 ### Cloud Native DevOps Platform:octocat:
 <p align="center">
-  <b>Imagine Kubernetes </b><br>
+  <b>IMAGINE KUBERNETES</b><br>
   <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
 </p>
 
