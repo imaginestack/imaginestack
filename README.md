@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
 
-### Cloud Native Platform:octocat:
+### Cloud Native DevOps Platform:octocat:
 <p align="center">
   <b>ImagineKube</b><br>
   <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
