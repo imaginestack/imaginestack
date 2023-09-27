@@ -29,8 +29,7 @@
 </div>
 
   
-### ImagineKube
-***redefining what's possible in cloud-native devops management***
+#### ImagineKube***redefining what's possible in cloud-native devops management***
 
 **🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineKube provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
