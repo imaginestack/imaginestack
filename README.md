@@ -2,10 +2,10 @@
 
 <img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
 
-### Cloud Native DevOps Platform:octocat:
+### Cloud Native Solutions Provider:octocat:
 <p align="center">
   <b>IMAGINE KUBERNETES</b><br>
-  <i>Unlock a World of Possibilities in Cloud-Native Excellence</i>
+  <i>Building Tomorrow's Solutions Today</i>
 </p>
 
 </div>
@@ -25,15 +25,15 @@
 </div>
 
 <div align="center">
-[ImagineKube](https://imaginekube.com/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
+[ImagineStack](https://imaginestack.io/) is your key to a cloud-native future without limits. Think of it as the ultimate enabler, a transformative force in the world of Kubernetes, and a guardian of your cloud-native aspirations.
 </div>
 
   
 ### ImagineKube  ***redefining what's possible in cloud-native devops management***
 
-**🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineKube provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
+**🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineStack provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
-**🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineKube's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
+**🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineStack's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
 
 **🤖 DevOps Revolution:** DevOps has never been this agile. Experience the future of deployments with GitOps-based Continuous Delivery, powered by Argo CD and Jenkins. Witness real-time CD status monitoring at your fingertips.
 
@@ -47,11 +47,11 @@
 
 ### Elevate Your Enterprise
 
-ImagineKube isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineKube is your partner in making the extraordinary a reality.
+ImagineStack isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineKube is your partner in making the extraordinary a reality.
 
 ### Join the Cloud-Native Revolution
 
-Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineKube journey today](https://imaginekube.com/) and discover the future of cloud-native innovation.
+Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineStack journey today](https://imaginestack.io/) and discover the future of cloud-native innovation.
 
   <summary><b>🗃 Support Multiple CNI Networking, Sevice Mesh, Load Balancing and Storage Solutions</b></summary>
   <li>Support K3S, Flannel, Calico, MetalLB, OpenELB, GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">OpenELB</li>
