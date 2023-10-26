@@ -53,7 +53,4 @@ ImagineStack isn't just a platform; it's a promise of excellence. Whether you're
 
 Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineStack journey today](https://imaginestack.io/) and discover the future of cloud-native innovation.
 
-  <summary><b>🗃 Support Multiple CNI Networking, Sevice Mesh, Load Balancing and Storage Solutions</b></summary>
-  <li>Support K3S, Flannel, Calico, MetalLB, OpenELB, GlusterFS, CephRBD, NFS, LocalPV solutions, and provide CSI plugins to consume storage from multiple cloud providers.</li><li>Provide Load Balancer Implementation <a href="https://github.com/imaginekube/openelb">OpenELB</li>
-</div>
 
