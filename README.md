@@ -4,7 +4,7 @@
 
 ### Cloud Native Solutions Provider:octocat:
 <p align="center">
-  <b>IMAGINE KUBERNETES</b><br>
+  <b>ImagineStack Platform</b><br>
   <i>Building Tomorrow's Solutions Today</i>
 </p>
 
