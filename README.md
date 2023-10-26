@@ -48,9 +48,3 @@
 ### Elevate Your Enterprise
 
 ImagineStack isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineKube is your partner in making the extraordinary a reality.
-
-### Join the Cloud-Native Revolution
-
-Ready to explore a cloud-native universe filled with endless possibilities? [Embark on your ImagineStack journey today](https://imaginestack.io/) and discover the future of cloud-native innovation.
-
-
