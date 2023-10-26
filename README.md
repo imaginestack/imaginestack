@@ -4,8 +4,8 @@
 
 ### Cloud Native Solutions Provider:octocat:
 <p align="center">
-  <b>ImagineStack Platform</b><br>
-  <i>Building Tomorrow's Solutions Today</i>
+  <b>Just Imagine...</b><br>
+  <i>building tomorrow's solutions today!</i>
 </p>
 
 </div>
