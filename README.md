@@ -4,8 +4,7 @@
 
 ### Cloud Native Solutions Provider
 <p align="center">
-  <b>Imagine</b><b>
-    <i>tommorrow's solutions today!</i>
+    <i>Reimagining what's possible in cloud-native development platform.</i>
 </p>
 
 </div>
