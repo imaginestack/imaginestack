@@ -39,4 +39,4 @@
 
 ### Elevate Your Enterprise
 
-ImagineStack isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineKube is your partner in making the extraordinary a reality.
+ImagineStack isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineStack is your partner in making the extraordinary a reality.
