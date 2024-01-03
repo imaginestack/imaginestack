@@ -4,7 +4,7 @@
 
 ### Cloud Native Solutions Provider
 <p align="center">
-  <b>Imagine</b><i>tommorrow's solutions today!</i>
+  <b>Imagine</b><b><i>tommorrow's solutions today!</i>
 </p>
 
 </div>
