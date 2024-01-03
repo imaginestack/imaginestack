@@ -31,9 +31,9 @@
 
 **🌟 Observability Elevated:** Elevate your observability game with multi-dimensional monitoring, event tracking, and auditing logs. You're in control, always.
 
-**🕸 Edge Computing Pioneering:** ImagineKube pushes the boundaries of edge computing with seamless [KubeEdge](https://kubeedge.io/en/) integration. Deploy applications at the edge, view logs, and monitor metrics from anywhere.
+**🕸 Edge Computing Pioneering:** ImagineStack pushes the boundaries of edge computing with seamless [KubeEdge](https://kubeedge.io/en/) integration. Deploy applications at the edge, view logs, and monitor metrics from anywhere.
 
-**📦 App Store Innovation:** The ImagineKube App Store, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
+**📦 App Store Innovation:** The Imagine App Marketplace, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
 
 **📊 Cost-Savings & Insights:** ImagineKube empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
 
