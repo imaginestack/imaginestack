@@ -4,7 +4,7 @@
 
 ### Cloud Native Solutions Provider
 <p align="center">
-    <i>Reimagining what's possible in cloud-native development platform.</i>
+    <i>Reimagining what's possible in cloud-native devops platforms.</i>
 </p>
 
 </div>
