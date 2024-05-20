@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
+<img src="https://avatars.githubusercontent.com/u/133197904?s=400&u=cd03e65022bc560b512af1f523fe99ac21040313&v=4" align="center" width="250px" height="250px"/>
 
 ### Cloud Native Solutions Provider
 <p align="center">
