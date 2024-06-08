@@ -36,6 +36,4 @@
 
 **📊 Cost-Savings & Insights:** ImagineStack empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
 
-### Elevate Your Enterprise
 
-ImagineStack isn't just a platform; it's a promise of excellence. Whether you're a developer seeking efficiency, an enterprise ready to conquer the cloud, or a visionary exploring the edge - ImagineStack is your partner in making the extraordinary a reality.
