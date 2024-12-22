@@ -53,8 +53,8 @@ Ready to Explore?
   </h3>
   <a href="https://imaginestack.io/">
     <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1.4em;">
-      Visit ImagineStack.io
-    </button>
+Visit ImagineStack.io
+</button>
   </a>
 </div>
 
