@@ -43,14 +43,6 @@
 
 <br>
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
-</div>
-<div align="center">
-    <span style="font-size: 1.3em;">
-        <h1>ImagineStack Architecture</h1>
-    </span>
-</div>
-<div align="center">
     <span style="font-size: 1.3em;">
         <p>
             <em>Single Source of Truth for a Scalable, Secure, and Autonomous Future</em>
@@ -59,7 +51,7 @@
 </div>
 <div align="left">
     <span style="font-size: 1.3em;">
-        <h3>🌐 Repository Structure: </h3>
+        <h3>🌐 ImagineStack Platform: </h3>
     </span>
 </div>
 <br>
