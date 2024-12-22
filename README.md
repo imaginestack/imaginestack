@@ -23,9 +23,9 @@
 <br>
 <div align="center"
 <p align="center">
-** 🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineStack provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
+**🌐 Multi-Cloud Marvel:** Navigate the multi-cloud landscape with grace. ImagineStack provides a single, unified platform to master the art of multi-cloud deployments, enabling you to harness the full power of cloud diversity.
 
-** 🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineStack's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
+**🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineStack's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
 
 ** 🤖 DevOps Revolution:** DevOps has never been this agile. Experience the future of deployments with GitOps-based Continuous Delivery, powered by Argo CD and Jenkins. Witness real-time CD status monitoring at your fingertips.
 
