@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/133197904?v=4" align="center" width="250px" height="250px"/>
 
 <p align="center">
-    <i>Reimagining what's possible in cloud-native platforms.</i>
+    <i>Reimagining what's possible in cloud native platforms.</i>
 </p>
 
 </div>
