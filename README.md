@@ -27,15 +27,15 @@
 
 **🚀 Seamless Integration:** Say goodbye to integration headaches. ImagineStack's plug-and-play architecture effortlessly welcomes third-party applications into its ecosystem, unleashing endless possibilities.
 
-** 🤖 DevOps Revolution:** DevOps has never been this agile. Experience the future of deployments with GitOps-based Continuous Delivery, powered by Argo CD and Jenkins. Witness real-time CD status monitoring at your fingertips.
+**🤖 DevOps Revolution:** DevOps has never been this agile. Experience the future of deployments with GitOps-based Continuous Delivery, powered by Argo CD and Jenkins. Witness real-time CD status monitoring at your fingertips.
 
-** 🌟 Observability Elevated:** Elevate your observability game with multi-dimensional monitoring, event tracking, and auditing logs. You're in control, always.
+**🌟 Observability Elevated:** Elevate your observability game with multi-dimensional monitoring, event tracking, and auditing logs. You're in control, always.
 
-** 🕸 Edge Computing Pioneering:** ImagineStack pushes the boundaries of edge computing with seamless [KubeEdge](https://kubeedge.io/en/) integration. Deploy applications at the edge, view logs, and monitor metrics from anywhere.
+**🕸 Edge Computing Pioneering:** ImagineStack pushes the boundaries of edge computing with seamless [KubeEdge](https://kubeedge.io/en/) integration. Deploy applications at the edge, view logs, and monitor metrics from anywhere.
 
-** 📦 App Store Innovation:** The Imagine App Marketplace, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
+**📦 App Store Innovation:** The Imagine App Marketplace, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
 
-** 📊 Cost-Savings & Insights:** ImagineStack empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
+**📊 Cost-Savings & Insights:** ImagineStack empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
 </p>
 </div>
 <br>
