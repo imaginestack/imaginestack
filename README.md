@@ -40,8 +40,6 @@
         Imagine a platform that not only scales with your ambitions but anticipates your needs. Imaginestack is more than just a collection of tools; it’s a carefully orchestrated ecosystem—a single source of truth (SSoT)—for building, managing, and deploying cloud-native applications and services. We're pioneering a new era of innovation, and this repository is the blueprint.
     </span>
 </div>
-
-<br>
 <div align="center">
     <span style="font-size: 1.3em;">
         <p>
@@ -54,8 +52,6 @@
         <h3>🌐 ImagineStack Platform: </h3>
     </span>
 </div>
-<br>
-<br>
  <div align="left">
   <details>
     <summary><span style="font-size: 1.3em;"> 📂 <strong>Core Repository Files</strong> </span></summary>
@@ -71,7 +67,6 @@
        </ul>
   </details>
 </div>
-<br>
 <div align="left">
  <details>
   <summary>  <span style="font-size: 3.3em;"> 📖 <strong>/docs : The Knowledge Repository</strong></span></summary>
@@ -126,7 +121,6 @@
    </ul>
  </details>
 </div>
-<br>
 <div align="left">
   <details>
   <summary>  <span style="font-size: 3.3em;"> 🧰 <strong>/platform : The Core Engine</strong> </span></summary>
@@ -173,7 +167,6 @@
    </ul>
   </details>
 </div>
-<br>
 <div align="left">
    <details>
     <summary>   <span style="font-size: 3.3em;"> ⚙️ <strong>/infra : The Infrastructure Factory</strong> </span></summary>
@@ -203,7 +196,6 @@
        </ul>
   </details>
 </div>
-<br>
 <div align="left">
     <details>
         <summary>  <span style="font-size: 1.3em;"> 🌍 <strong>/environments : Tailored Ecosystems</strong> </span></summary>
@@ -236,7 +228,6 @@
         </ul>
    </details>
 </div>
-<br>
 <div align="left">
   <details>
     <summary>  <span style="font-size: 1.3em;"> 🔌 <strong>/integrations : External Connections</strong> </span></summary>
@@ -272,7 +263,6 @@
     </ul>
   </details>
 </div>
-<br>
 <div align="left">
     <details>
         <summary>  <span style="font-size: 3.3em;"> 🧰 <strong>/tools : The Developer Toolkit</strong> </span></summary>
@@ -358,7 +348,6 @@
         </ul>
     </details>
 </div>
-<br>
 <div align="left">
   <details>
     <summary>  <span style="font-size: 1.3em;"> 🧱 <strong>/stacks : Modular Building Blocks</strong> </span></summary>
@@ -409,7 +398,6 @@
         </ul>
   </details>
 </div>
-<br>
 <div align="left">
     <details>
         <summary>  <span style="font-size: 1.3em;"> 🏢 <strong>/ventures : Strategic Initiatives</strong> </span></summary>
@@ -438,7 +426,6 @@
       </ul>
     </details>
 </div>
-<br>
 <div align="left">
   <details>
    <summary>   <span style="font-size: 1.3em;"> ⚙️ <strong>/workflows : Automation Orchestration</strong> </span></summary>
@@ -532,7 +519,6 @@
     </ul>
   </details>
 </div>
-<br>
 
 <div align="center">
     <hr style="width:50%;">
