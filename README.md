@@ -37,8 +37,6 @@
 
 **📊 Cost-Savings & Insights:** ImagineStack empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
 
----
-<br>
 <div align="center">
     <hr style="width:50%;">
     <p style="font-size: 1.4em;">
