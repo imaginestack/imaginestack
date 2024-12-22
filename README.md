@@ -36,7 +36,7 @@
 **📦 App Store Innovation:** The Imagine App Marketplace, a treasure trove of Helm-based applications, simplifies your application lifecycle management on Kubernetes. Your next big idea is just a click away.
 
 **📊 Cost-Savings & Insights:** ImagineStack empowers you with insights to make data-driven decisions. Track resource consumption across different levels and optimize resources effortlessly.
-
+<br>
 <div align="center">
     <hr style="width:50%;">
     <p style="font-size: 1.4em;">
@@ -46,12 +46,10 @@
     </p>
     <hr style="width:50%;">
 </div>
-
 <br>
-
 <div align="center">
-  <h3 style="font-size: 1.6em;">
-    Ready to Explore?
+<h3 style="font-size: 1.6em;">
+Ready to Explore?
   </h3>
   <a href="https://imaginestack.io/">
     <button style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 1.4em;">
